@@ -21,3 +21,7 @@
 Two institutions in the US are particularly involved in Underwater Robotics:
 * [MBARI](www.mbari.org) in Monterey, CA
 * [Woods Hole Oceanographic Inst](https://www.whoi.edu/) on the east coast
+
+### Autonomous Driving
+* [Overview 1](https://www.amazon.com/Creating-Autonomous-Synthesis-Lectures-Computer/dp/1681739356/ref=sr_1_7?crid=2I5JVVGATG1M&keywords=autonomous+driving&qid=1641786381&sprefix=autonomous+driving%2Caps%2C228&sr=8-7)
+* [Overview 2](https://www.amazon.com/Introduction-Self-Driving-Technology-Artificial-Intelligence/dp/0367321254/ref=pd_sbs_2/131-7332232-1437961?pd_rd_w=aEWMh&pf_rd_p=0a3ad226-8a77-4898-9a99-63ffeb1aef90&pf_rd_r=1TMC9GCP8Z7Y6AQ5K9ZK&pd_rd_r=1308fb38-22c6-439d-a31b-8a7e7e408f90&pd_rd_wg=34urL&pd_rd_i=0367321254&psc=1)
