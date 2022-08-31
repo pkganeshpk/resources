@@ -19,7 +19,5 @@ This is just the procedural list that doesn't address the emotional fallout of t
 [Video](https://www.youtube.com/watch?v=aFNnH4FvSxM)
 
 ### Productively using periods of low activity
-Please visit [Triplebyte](https://triplebyte.com) to prepare for tests and interviews in your domain. This will be good practice anyway.
-
-### Sites for remote & freelance work
-[Nikita's](https://www.linkedin.com/feed/update/urn:li:activity:6969179224129646592?utm_source=share&utm_medium=member_desktop) LinkedIn post
+* Please visit [Triplebyte](https://triplebyte.com) to prepare for tests and interviews in your domain. This will be good practice anyway.
+* Freelance work: Nikita's LinkedIn [Post](https://www.linkedin.com/feed/update/urn:li:activity:6969179224129646592?utm_source=share&utm_medium=member_desktop) 
